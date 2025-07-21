@@ -100,6 +100,13 @@ mandelbrot-explorer-wgpu
 -   Higher iteration counts provide more detail but reduce performance in
     certain areas of complex plane
 
+## TODO
+
+-   [ ] Automatic max iterations
+-   [ ] Palettes?
+-   [ ] Ability to enter coordinates
+    -   [ ] And copy current
+
 ## License
 
 Licensed under either of
